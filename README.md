@@ -45,8 +45,8 @@ An interactive tool for exploring development technologies and building a person
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nafsun-baust&show_icons=true&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafsun-baust&layout=compact&hide_border=true" alt="Most used languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
