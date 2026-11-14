@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">MD Nafsun Kabir — Junior Frontend Developer</title>
+  <desc id="desc">A modern blue and navy technology-themed banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#153b68"/>
+      <stop offset="1" stop-color="#2563a6"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#bfdbfe" stop-opacity="0.65"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M760 0 L960 110 L1200 48"/>
+    <path d="M720 320 L930 205 L1200 270"/>
+    <path d="M900 0 L1060 95 L1200 72"/>
+    <path d="M820 320 L1010 230 L1200 292"/>
+  </g>
+  <g fill="#93c5fd" opacity="0.2">
+    <circle cx="1010" cy="82" r="74"/>
+    <circle cx="1110" cy="246" r="112"/>
+    <circle cx="850" cy="260" r="42"/>
+  </g>
+  <g fill="#dbeafe" opacity="0.8" font-family="monospace" font-size="18">
+    <text x="875" y="142">&lt;frontend /&gt;</text>
+    <text x="950" y="190">{ React · Next.js }</text>
+  </g>
+  <text x="86" y="138" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">MD Nafsun Kabir</text>
+  <rect x="88" y="166" width="72" height="4" rx="2" fill="#7dd3fc"/>
+  <text x="88" y="213" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500">Junior Frontend Developer</text>
+  <text x="88" y="252" fill="#bfdbfe" font-family="Arial, Helvetica, sans-serif" font-size="17">React.js  ·  Next.js  ·  TypeScript  ·  Responsive Web UI</text>
+</svg>
