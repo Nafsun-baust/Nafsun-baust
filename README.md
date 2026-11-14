@@ -68,5 +68,6 @@ An interactive tool for exploring development technologies and building a person
 </p>
 
 <p align="center">
+  <b>Email:</b> <a href="mailto:nafsunkabirk@gmail.com">nafsunkabirk@gmail.com</a><br />
   <b>Location:</b> Rangpur, Bangladesh
 </p>
