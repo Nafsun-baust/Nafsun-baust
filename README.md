@@ -26,7 +26,7 @@
 
 ## Featured Projects
 
-### [Equipment Rental Rangpur — Equipment Rental Marketplace](https://rangpur-rental-client.vercel.app/)
+### [Rangpur Rental Client — Equipment Rental Marketplace](https://github.com/Nafsun-baust/rangpur-rental-client)
 A responsive equipment-rental marketplace where equipment owners can list items and customers can browse, book, and pay online.
 
 - Browse equipment with search, filters, and sorting.
