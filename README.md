@@ -26,16 +26,6 @@
 
 ## Featured Projects
 
-### [RangpurEvent — Community Event Platform](https://github.com/Nafsun-baust/rangpur-event-client)
-A community platform for creating, discovering, joining, and managing social events in Rangpur.
-
-- Browse upcoming community events and join events while signed in.
-- Create events and edit or delete events you have created.
-- Supports email/password and Google sign-in with Better Auth.
-- Includes profile updates and light/dark theme switching.
-- **Stack:** Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, Better Auth, JWT, Express.js, MongoDB.
-- [Live Demo](https://rangpur-event-frontend.vercel.app/) · [Client Source Code](https://github.com/Nafsun-baust/rangpur-event-client)
-
 ### [Rangpur Rental Client — Equipment Rental Marketplace](https://github.com/Nafsun-baust/rangpur-rental-client)
 A responsive equipment-rental marketplace where equipment owners can list items and customers can browse, book, and pay online.
 
@@ -45,6 +35,16 @@ A responsive equipment-rental marketplace where equipment owners can list items 
 - Provides customer, owner, and admin dashboards with analytics.
 - **Stack:** Next.js, React, Better Auth, MongoDB, Stripe, Framer Motion, Recharts, Tailwind CSS.
 - [Live Demo](https://rangpur-rental-client.vercel.app/) · [Client Source Code](https://github.com/Nafsun-baust/rangpur-rental-client) · [Server Repository](https://github.com/Nafsun-baust/rangpur-rental-server)
+
+### [RangpurEvent — Community Event Platform](https://github.com/Nafsun-baust/rangpur-event-client)
+A community platform for creating, discovering, joining, and managing social events in Rangpur.
+
+- Browse upcoming community events and join events while signed in.
+- Create events and edit or delete events you have created.
+- Supports email/password and Google sign-in with Better Auth.
+- Includes profile updates and light/dark theme switching.
+- **Stack:** Next.js, React, TypeScript, Tailwind CSS, Shadcn UI, Better Auth, JWT, Express.js, MongoDB.
+- [Live Demo](https://rangpur-event-frontend.vercel.app/) · [Client Source Code](https://github.com/Nafsun-baust/rangpur-event-client)
 
 ### [FitLog — Workout Planner](https://fitlog-nafsun.vercel.app/)
 A workout planning application for exploring exercises and organizing daily workout routines.
