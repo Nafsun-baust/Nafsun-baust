@@ -26,6 +26,16 @@
 
 ## Featured Projects
 
+### [Equipment Rental Rangpur — Equipment Rental Marketplace](https://rangpur-rental-client.vercel.app/)
+A responsive equipment-rental marketplace where equipment owners can list items and customers can browse, book, and pay online.
+
+- Browse equipment with search, filters, and sorting.
+- Supports role-based authentication for customers, owners, and admins.
+- Includes equipment details, favorites, booking flow, and Stripe checkout.
+- Provides customer, owner, and admin dashboards with analytics.
+- **Stack:** Next.js, React, Better Auth, MongoDB, Stripe, Framer Motion, Recharts, Tailwind CSS.
+- [Live Demo](https://rangpur-rental-client.vercel.app/) · [Client Source Code](https://github.com/Nafsun-baust/rangpur-rental-client) · [Server Repository](https://github.com/Nafsun-baust/rangpur-rental-server)
+
 ### [FitLog — Workout Planner](https://fitlog-nafsun.vercel.app/)
 A workout planning application for exploring exercises and organizing daily workout routines.
 
